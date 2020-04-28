@@ -1,0 +1,14 @@
+{
+  "name": "nodemailer - gmail (basic)",
+  "version": "0.0.1",
+  "description": "nodemailer basic gmail configuration",
+  "main": "index.js",
+  "author": "Mustafa Demir",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "nodemailer": "^6.4.6"
+  }
+}
